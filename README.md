@@ -1,1 +1,1 @@
-# WalletValidator
+# walletvalidator
